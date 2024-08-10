@@ -1,4 +1,4 @@
-**HI this is Kaushik**
+###HI this is Kaushik
 
 These are all the models that i have been working on nlp and computer vision. these are my top end implementations mainly focusing on attention. 
 I have been studying transformer architecture and its applications in in nlp and image processing.
